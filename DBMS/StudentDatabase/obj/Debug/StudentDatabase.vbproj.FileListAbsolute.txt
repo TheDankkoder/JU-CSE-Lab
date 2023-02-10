@@ -1,0 +1,13 @@
+D:\Assignments\DBMS\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+D:\Assignments\DBMS\StudentDatabase\bin\Debug\StudentDatabase.exe
+D:\Assignments\DBMS\StudentDatabase\bin\Debug\StudentDatabase.pdb
+D:\Assignments\DBMS\StudentDatabase\bin\Debug\StudentDatabase.xml
+D:\Assignments\DBMS\StudentDatabase\obj\Debug\StudentDatabase.vbproj.AssemblyReference.cache
+D:\Assignments\DBMS\StudentDatabase\obj\Debug\StudentDatabase.vbproj.SuggestedBindingRedirects.cache
+D:\Assignments\DBMS\StudentDatabase\obj\Debug\StudentDatabase.Form1.resources
+D:\Assignments\DBMS\StudentDatabase\obj\Debug\StudentDatabase.Resources.resources
+D:\Assignments\DBMS\StudentDatabase\obj\Debug\StudentDatabase.vbproj.GenerateResource.cache
+D:\Assignments\DBMS\StudentDatabase\obj\Debug\StudentDatabase.vbproj.CoreCompileInputs.cache
+D:\Assignments\DBMS\StudentDatabase\obj\Debug\StudentDatabase.exe
+D:\Assignments\DBMS\StudentDatabase\obj\Debug\StudentDatabase.xml
+D:\Assignments\DBMS\StudentDatabase\obj\Debug\StudentDatabase.pdb
